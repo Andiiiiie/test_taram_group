@@ -1,6 +1,6 @@
 # Node
 node_modules/
-Front-end/node_modules/
+frontend/node_modules/
 
 # Logs
 npm-debug.log*
