@@ -39,9 +39,9 @@ Les deux projets utilisent un fichier JSON comme base de données simple.
 
 ### Python-service (FastAPI)
 
-1. Se placer dans le dossier `backend` :
+1. Se placer dans le dossier `python-service` :
     ```bash
-    cd backend
+    cd python-service
     ```
 2. Créer un environnement virtuel :
     ```bash
