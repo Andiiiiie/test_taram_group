@@ -1,0 +1,77 @@
+[
+  {
+    "id": "faq#ebitda",
+    "q": "Qu’est-ce que l’EBITDA ?",
+    "a": "L’EBITDA est un indicateur de performance opérationnelle avant intérêts, impôts, dépréciations et amortissements."
+  },
+  {
+    "id": "faq#marge-brute",
+    "q": "À quoi sert la marge brute ?",
+    "a": "Elle mesure la part du chiffre d’affaires restant après le coût des ventes, utile pour suivre la performance commerciale et pricing."
+  },
+  {
+    "id": "faq#flux-tresorerie",
+    "q": "Qu’est-ce que le flux de trésorerie ?",
+    "a": "Le flux de trésorerie correspond aux mouvements d’argent entrants et sortants d’une entreprise sur une période donnée."
+  },
+  {
+    "id": "faq#bilan",
+    "q": "Qu’est-ce qu’un bilan comptable ?",
+    "a": "Le bilan présente l’état du patrimoine de l’entreprise à un instant donné, avec ses actifs et passifs."
+  },
+  {
+    "id": "faq#compte-resultat",
+    "q": "Qu’est-ce qu’un compte de résultat ?",
+    "a": "Le compte de résultat montre la performance de l’entreprise sur une période, avec ses produits et charges, et le résultat net."
+  },
+  {
+    "id": "faq#capitaux-propres",
+    "q": "Que sont les capitaux propres ?",
+    "a": "Les capitaux propres représentent les ressources financières appartenant aux actionnaires après déduction des dettes."
+  },
+  {
+    "id": "faq#ratio-solvabilite",
+    "q": "Qu’est-ce que le ratio de solvabilité ?",
+    "a": "Il mesure la capacité d’une entreprise à rembourser ses dettes à long terme."
+  },
+  {
+    "id": "faq#fonds-roulement",
+    "q": "Qu’est-ce que le fonds de roulement ?",
+    "a": "Le fonds de roulement correspond à la part des ressources stables disponibles pour financer l’activité courante."
+  },
+  {
+    "id": "faq#rentabilite",
+    "q": "Qu’est-ce que la rentabilité ?",
+    "a": "La rentabilité mesure la capacité d’une entreprise à générer du profit par rapport à ses investissements ou chiffre d’affaires."
+  },
+  {
+    "id": "faq#cash-flow",
+    "q": "Quelle est la différence entre cash-flow et bénéfice net ?",
+    "a": "Le cash-flow inclut les flux réels de trésorerie, alors que le bénéfice net tient compte des charges non monétaires."
+  },
+  {
+    "id": "faq#investissement",
+    "q": "Qu’est-ce qu’un investissement ?",
+    "a": "Un investissement est l’acquisition d’actifs pour générer des revenus ou améliorer la performance future."
+  },
+  {
+    "id": "faq#amortissement",
+    "q": "Qu’est-ce qu’un amortissement ?",
+    "a": "L’amortissement est la répartition du coût d’un actif sur sa durée de vie utile."
+  },
+  {
+    "id": "faq#liquidite",
+    "q": "Qu’est-ce que la liquidité d’une entreprise ?",
+    "a": "La liquidité mesure la capacité à transformer rapidement les actifs en cash pour faire face aux besoins immédiats."
+  },
+  {
+    "id": "faq#cout-fixe",
+    "q": "Qu’est-ce qu’un coût fixe ?",
+    "a": "Un coût fixe reste constant quelle que soit la production ou le chiffre d’affaires de l’entreprise."
+  },
+  {
+    "id": "faq#cout-variable",
+    "q": "Qu’est-ce qu’un coût variable ?",
+    "a": "Un coût variable évolue proportionnellement au niveau de production ou d’activité."
+  }
+]
